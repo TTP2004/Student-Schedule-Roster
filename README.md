@@ -1,2 +1,1 @@
-# Student-Schedule-Roster
-Final project for data structures 
+This is a simple Student Management System built with Python and MySQL. The application provides role-based access to students and managers. Students can manage their own schedules, while managers can oversee and update class rosters and student records.
